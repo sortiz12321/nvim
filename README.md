@@ -6,7 +6,7 @@ Por defecto estamos en modo normal.
 
 *** GIF 1
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-![Modo normal](./img/Peek 2024-06-14 19-52.gif)
+![Modo normal](/img/Peek 2024-06-14 19-52.gif)
 y pulsando la tecla "i" entramos en modo inserción.
 
 *** GIF 2
