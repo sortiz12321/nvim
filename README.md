@@ -118,7 +118,7 @@ Co la letra "yy" copiaremos la línea en la que nos encontremos. Con la letra "p
 
 *** GID 16
 
-![Modo normal](/img/15.gif)
+![Modo normal](/img/17.gif)
 
 Con la letra "S" borraremos la línea en la que nos encontremos. En nuestro caso muy parecido a "dd".
 
